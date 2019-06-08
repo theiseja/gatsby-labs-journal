@@ -38,7 +38,7 @@ function Bio() {
               }}
             />
             <p>
-              A technical blog for <strong>{author}</strong>'s Lambda Labs project.
+              A Lambda Labs project progress blog for <strong>{author}</strong> <br />
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
                 You should follow him on Twitter
