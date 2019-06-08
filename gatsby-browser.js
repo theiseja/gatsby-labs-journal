@@ -1,4 +1,4 @@
 // custom typefaces
 
 import "typeface-oswald"
-import "typeface-Raleway"
+import "typeface-raleway"
