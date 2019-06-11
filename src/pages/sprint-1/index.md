@@ -1,6 +1,6 @@
 ---
 path: '/post-one'
-date: '2019-06-09'
+date: '06-09-2019'
 title: 'Sprint week one'
 author: 'Jesse Theisen'
 ---
