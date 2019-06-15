@@ -1,6 +1,6 @@
 ---
 path: '/sprint-2'
-date: '06-09-2019'
+date: '2019-06-01'
 title: 'Sprint week two'
 author: 'Jesse Theisen'
 ---
