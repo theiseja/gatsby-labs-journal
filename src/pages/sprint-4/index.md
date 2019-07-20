@@ -11,4 +11,4 @@ author: 'Jesse Theisen'
 
 
 ## Individual Progress
-This week went very well, I was able to start working on the actions for listing trips. Finished Get all, get by ID, Add a new list and update list.
+This week went very well, I was able to start working on the actions for listing trips. Finished Get all, get by ID, Add a new list and update list. I was able to finish the actions for listing trips this week, also got started on Stripe integration which has been completed.

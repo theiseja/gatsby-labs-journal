@@ -6,7 +6,7 @@ author: 'Jesse Theisen'
 ---
 
 ## Understanding the sprint guidelines
-This sprint was mainly concentrating on responsive design and styling. As well as getting the front and backend connected together
+This sprint was all about implementing features and responsive styling.
 
 ## Individual progress
 
